@@ -82,6 +82,12 @@
       <td>I've whipped up a delightful online store using React, React Three Fiber, SQLite, and Auth0 for authentication, showcasing uniquely customized donuts.</td>
       <td><a href='https://github.com/nathalia-prado/Tifffs-Donut'>Repository</a></td>
     </tr>
+    <tr>
+      <td><a href='https://nathalia-prado.github.io/'>Personal Blog while studying </a></td>
+      <td>HTML | CSS</td>
+      <td>I created a blog during my studies to document my daily activities, share my plans, and apply my knowledge of CSS and HTML</td>
+      <td><a href='https://github.com/nathalia-prado/nathalia-prado.github.io'>Repository</a></td>
+    </tr>
   </tbody>
 </table>
 </details>
