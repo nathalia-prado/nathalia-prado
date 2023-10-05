@@ -7,7 +7,7 @@
 ### 
 <img src='https://github.com/nathalia-prado/nathalia-prado/blob/main/assets/coding.gif' style='max-width: 60%; display: inline-block;' align='center'>
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/nathalia-prado)
+### Hi  👋 visitors
 - :school: I'm [Nathalia Prado](https://nathalia-prado.github.io/), a recent graduate software developer from <a href="https://devacademy.co.nz/">@DEVACADEMY</a>
 - 🔭 I’m currently available to take on new challenges
 - :neutral_face: I have a **love** relationship with **Programming**
