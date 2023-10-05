@@ -1,10 +1,11 @@
-<div align='center'><h1> जय माता दी (JAI MATA DI) :pray:</h1></div>
+<div align='center'><h1>"Perseverance: the secret to all triumphs." - Victor Hugo :pray:</h1></div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/nathalia-ribeiro-prado-5a12a9293" target="_blank" rel="nofollow"><img align="right" alt="Nathalia's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/nathalia.prado" target="_blank" rel="nofollow"><img align="right" alt="Nathalia's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
 
-<img src='https://github.com/nathalia-prado/nathalia-prado/blob/main/assets/coding.gif' align='left'>
+### 
+<img src='https://github.com/nathalia-prado/nathalia-prado/blob/main/assets/coding.gif' style='max-width: 60%; display: inline-block;' align='center'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/nathalia-prado)
 - :school: I'm [Nathalia Prado](https://nathalia-prado.github.io/), a recent graduate software developer from <a href="https://devacademy.co.nz/">@DEVACADEMY</a>
@@ -100,9 +101,3 @@
 </div>
 </details>
 <!-- end statics fun section -->
-
-<!-- start footer section -->
-
-****
-
-[![test_workflow](https://github.com/nathalia-prado/nathalia-prado/actions/workflows/blank.yml/badge.svg)](https://github.com/nathalia-prado/nathalia-prado/actions/workflows/blank.yml)
