@@ -47,7 +47,8 @@
      <tr>
       <td><b><a href="#">Smartest IT Solutions ME</a></b></td>
       <td>IT Customer Services</td>
-      <td>In my role, I was responsible for assisting clients who needed help with their software-related issues or wanted to explore options for new software solutions. This involved addressing their inquiries, providing technical support, and helping them navigate the process of improving or creating software tailored to their needs.</td>
+      <td>In my role, I was responsible for assisting clients who needed help with their software-related issues or wanted to explore options for new software solutions.</td>
+      <td>Responsibilities involve addressing their inquiries, providing technical support, and helping them navigate the process of improving or creating software tailored to their needs.</td>
       <td>October 2017 - December 2019</td>
       <td>Sao Paulo, Brazil</td>
     </tr>
@@ -79,6 +80,7 @@
       <td><a href='https://tiffs-donuts.devacademy.nz/'>Donuts Store (Group Project)</a></td>
       <td>React Three Fiber | Tailwind | Express / API | Knex / SQLite | Auth0| Vitest</td>
       <td>I've whipped up a delightful online store using React, React Three Fiber, SQLite, and Auth0 for authentication, showcasing uniquely customized donuts.</td>
+      <td><a href='https://github.com/nathalia-prado/Tifffs-Donut'>Repository</a></td>
     </tr>
   </tbody>
 </table>
