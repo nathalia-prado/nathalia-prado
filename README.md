@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/nathalia-ribeiro-prado-5a12a9293" target="_blank" rel="nofollow"><img align="right" alt="Nathalia's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/nathalia.prado" target="_blank" rel="nofollow"><img align="right" alt="Nathalia's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
 
-<img src='https://github.com/nathalia-prado/nathalia-prado/blob/main/assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://github.com/nathalia-prado/nathalia-prado/blob/main/assets/coding.gif' align='left'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/nathalia-prado)
 - :school: I'm [Nathalia Prado](https://nathalia-prado.github.io/), a recent graduate software developer from <a href="https://devacademy.co.nz/">@DEVACADEMY</a>
